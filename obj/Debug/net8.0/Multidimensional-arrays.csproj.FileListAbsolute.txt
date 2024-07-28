@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\bin\Debug\net8.0\Multidimensional-arrays.exe
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\bin\Debug\net8.0\Multidimensional-arrays.deps.json
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\bin\Debug\net8.0\Multidimensional-arrays.runtimeconfig.json
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\bin\Debug\net8.0\Multidimensional-arrays.dll
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\bin\Debug\net8.0\Multidimensional-arrays.pdb
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\Multidimensional-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\Multidimensional-arrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\Multidimensional-arrays.AssemblyInfo.cs
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\Multidimensional-arrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\Multidimensional-arrays.dll
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\refint\Multidimensional-arrays.dll
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\Multidimensional-arrays.pdb
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\Multidimensional-arrays.genruntimeconfig.cache
+C:\Users\user\Desktop\BTK\Multidimensional-arrays\obj\Debug\net8.0\ref\Multidimensional-arrays.dll
